@@ -1,2 +1,2 @@
 # SQL-Certificate
-# HackerRan
+# HackerRank
