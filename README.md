@@ -1,2 +1,2 @@
 # SQL-Certificate
-# Hac
+# Hack
