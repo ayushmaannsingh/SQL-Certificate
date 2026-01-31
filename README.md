@@ -2,7 +2,7 @@
  # SQL-Certificate
 # HackerRank
 
- 
+
 
 SQL
 
