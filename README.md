@@ -3,6 +3,5 @@
 # HackerRank
 
 
-
 SQL
 
