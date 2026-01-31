@@ -2,6 +2,5 @@
  # SQL-Certificate
 # HackerRank
 
-
 SQL
 
